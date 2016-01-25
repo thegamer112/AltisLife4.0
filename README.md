@@ -8,7 +8,7 @@ To play on our Server please use Arma3Sync:
   - Join our Teamspeak³ Server: locxserv.de
   - Select Locxserv.de in Arma3Sync and click "Start Game"
   - Profit!
-  - 
+
 Added features:
   + Smartphone with saved SMS
   + New Police Skins
