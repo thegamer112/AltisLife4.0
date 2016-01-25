@@ -3,7 +3,7 @@
 Well ... this is the Git for the AltisLife 4.0 Server from Locxserv.de  
 
 To play on our Server please use Arma3Sync:   
-	- Create a new Repo with the autoconfig "http://fastdl.locxserv.de/arma3sync/.a3s/autoconfig" 
+	- Create a new Repo with the autoconfig "http://fastdl.locxserv.de/arma3sync/.a3s/autoconfig"  
 	- Sync the Addons and install TaskForceArrowheadRadio-Plugin on your Teamspeak³ Client  
 	- Join our Teamspeak³ Server: locxserv.de  
 	- Select Locxserv.de in Arma3Sync and click "Start Game"  
