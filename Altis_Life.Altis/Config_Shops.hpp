@@ -96,10 +96,13 @@ class WeaponShops {
          { "10Rnd_93x64_DMR_05_Mag", "", 500},
 
          // Sniper Rifles
-         // ["M320 LRR Sniper", "srifle_LRR_LRPS_F", 1000],
-         // ["M320 LRR Sniper (Camo)", "srifle_LRR_camo_LRPS_F", 1200],
-         // ["GM6 Lynx Sniper", "srifle_GM6_LRPS_F", 1250],
-         // ["GM6 Lynx Sniper (Camo)", "srifle_GM6_camo_LRPS_F", 1500],
+         { "srifle_LRR_LRPS_F", "", 153000},
+         { "srifle_LRR_camo_LRPS_F", "", 184000},
+         { "7Rnd_408_Mag", "", 500},
+         { "srifle_GM6_LRPS_F", "", 191000},
+         { "srifle_GM6_camo_LRPS_F", "", 230000},
+         { "5Rnd_127x108_Mag", "", 500},
+         { "5Rnd_127x108_APDS_Mag", "", 600},
 
          { "srifle_DMR_04_F", "", 306000},
          { "srifle_DMR_04_tan_F", "", 345000},
