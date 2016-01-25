@@ -26,5 +26,5 @@ Planned Stuff:
 	+ Install CSE (Combat Space Enhancement)  
    
 Visit us:           http://www.locxserv.de  
-Teamspeak³ Server:  locxserv.de    
+Teamspeak³ Server:  locxserv.de     
 
