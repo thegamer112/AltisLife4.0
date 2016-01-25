@@ -1,4 +1,5 @@
-//CIV shop ferig, Rebel shop angefangen, letzte bearbeitete Zeile (58), Preise nur für Mags und DLC Waffen angepasst
+//CIV und Rebel shop fertig, letzte Zeile(109), Preise im Vergleich zu Waffen auf Wasteland angepasst
+//Alle Waffen zum Testen aktiv!!!
 class WeaponShops {
    //Armory Shops
    class gun {
@@ -84,13 +85,15 @@ class WeaponShops {
          {"srifle_DMR_01_F", "", 60000},
          {"10Rnd_762x54_Mag", "", 150},
          {"srifle_EBR_F", "", 70000},
-         {"20Rnd_762x51_Mag", "", 250}
 
          // DLC
-         // {"srifle_DMR_06_camo_F", "", 70000},
-         // {"srifle_DMR_03_F", "", 75000},
-         // {"srifle_DMR_02_F", "", 115000},
-         // {"srifle_DMR_05_blk_F", "", 115000},
+         {"srifle_DMR_06_camo_F", "", 70000},
+         {"srifle_DMR_03_F", "", 75000},
+         {"20Rnd_762x51_Mag", "", 250}
+         {"srifle_DMR_02_F", "", 115000},
+         { "10Rnd_338_Mag", "", 500},
+         {"srifle_DMR_05_blk_F", "", 115000},
+         { "10Rnd_93x64_DMR_05_Mag", "", 500},
 
          // Sniper Rifles
          // ["M320 LRR Sniper", "srifle_LRR_LRPS_F", 1000],
@@ -98,8 +101,9 @@ class WeaponShops {
          // ["GM6 Lynx Sniper", "srifle_GM6_LRPS_F", 1250],
          // ["GM6 Lynx Sniper (Camo)", "srifle_GM6_camo_LRPS_F", 1500],
 
-         // ["ASP-1 Kir Rifle [DLC]", "srifle_DMR_04_F", 2000],
-         // ["ASP-1 Kir Rifle (Tan) [DLC]", "srifle_DMR_04_tan_F", 2250]
+         { "srifle_DMR_04_F", "", 306000},
+         { "srifle_DMR_04_tan_F", "", 345000},
+         {"10Rnd_127x54_Mag", "", 750}
       };
    };
    class gang {
